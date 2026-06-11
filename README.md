@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>Bienvenido</title>
+<style>
+body {
+    margin:0;
+    padding:0;
+    background-image:url('https://i.ibb.co/HfM3Dr9L/left.png');
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    color:white;
+    font-family:Arial;
+}
+
+.panel {
+    background-color:rgba(0,0,0,0.65);
+    width:450px;
+    margin:20px;
+    padding:15px;
+    border:1px solid #555;
+}
+
+h1 {
+    color:#ff3333;
+}
+</style>
+</head>
+
+<body>
+
+<div class="panel">
+<h1>Bienvenido al servidor</h1>
+
+<p><b>Servidor:</b> Yukirito2014</p>
+
+<p><b>Reglas:</b></p>
+<ul>
+<li>No usar cheats.</li>
+<li>Respeta a los jugadores.</li>
+<li>No bloquear el avance.</li>
+</ul>
+
+<p><b>Discord:</b> Tu Discord aquí</p>
+
+<p><b>Comandos:</b></p>
+<ul>
+<li>!tp</li>
+<li>!laser</li>
+</ul>
+
+<p>¡Disfruta la partida!</p>
+</div>
+
+</body>
+</html>
